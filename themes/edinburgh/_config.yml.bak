@@ -1,0 +1,12 @@
+# Google Analytics Tracking ID
+google_analytics:
+
+# Default portfolio post
+default_cover_image: /images/treacle1.jpg
+default_post_title: Project
+
+# Header
+menu:
+  About: /about
+  Contact: /contact
+  Blog: /blog
