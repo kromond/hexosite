@@ -8,12 +8,18 @@ tags:
 cover_image: assets/images/SG_cover.png
 ---
 
+This project is a real time gallery simulation for the HTC Vive or Oculus Rift.  The first version shown here includes 4 figurative sculptures specifically created for this piece, with a self referential 'VR headset' theme.  There is also a room filling sculpture installation and 9 large scale photographs.
 
-More about this project can be found here, including a download to the working prototype for Vive or Rift
+The viewer is able to move around the art works in 'room scale' and are able to teleport to other locations.
+
+More about this project can be found here, including download link to the working prototype for Vive or Rift
 
 https://twidgelab.github.io/SteradianGallery_docs/
 
-![](HighresScreenshot00004.jpg)
+{% iframe https://www.youtube.com/embed/oXEeSsjpbDQ 960 540 %}
+
+___
+
 
 ![](HighresScreenshot00005.jpg)
 
@@ -27,4 +33,4 @@ https://twidgelab.github.io/SteradianGallery_docs/
 
 ![](HighresScreenshot00002.jpg)
 
-![](HighresScreenshot00017.jpg)
+![](HighresScreenshot00004.jpg)

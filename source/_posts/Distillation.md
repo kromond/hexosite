@@ -1,8 +1,8 @@
 ---
 title: Distillation
-date: 2017-07-04 12:40:25
-tags: distallation
-cover_image: assets/images/20141122_NZdistilling_0044.jpg
+date: 2017-07-02 12:40:25
+tags: distillation
+cover_image: assets/images/distillingCover.png
 ---
 I've spent a bit over 3 years using my project time to grow food, bake bread, brew beer and distill many forms of spirits including all malt whiskey, gin, and rum
 

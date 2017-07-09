@@ -163,3 +163,8 @@ img {
   opacity: 0;
   filter: alpha(opacity=0);
 }
+
+iframe {
+    margin: 0 auto;
+    display:block;
+}
