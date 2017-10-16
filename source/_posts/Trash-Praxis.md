@@ -69,20 +69,21 @@ Faces were a consideration from the start.  For phase 1 on of the project, I ass
 
 ![helmetcam.png](helmetcam.png)
 
-We used this on Raqi.  For Alfio,we recorded a 'witness camera', locked off and tight on the head. We got reasonable data from these, however we did not firmly establish exactly _how_ we could carry the facial performance in the game engine.  I spent some time looking into options including open source options for markerless facial tracking and how to use this data to manipulate a cg face.
+We used this on Raqi.  For Alfio,we recorded a 'witness camera', locked off and tight on the head. We got reasonable data from these.
 
 {% iframe https://www.youtube.com/embed/n4zpVPKpk7Q 640 360 %}
 
+However, we did not firmly establish exactly _how_ we could carry the facial performance in the game engine.  I spent some time looking into options including open source options for markerless facial tracking and how to use this data to manipulate a cg face.
 
-I also trialled a commercial option.  These options all required a high quality facial performance rig in CG, which is not trivial to build particularly on the timeline we established for the project.  Additionally, from the beginning I was very interested in using the video of the facial performance as a component in the final result.  I felt strongly this would convey subtlety and expression and help us avoid the uncanny valley.  This pointed toward using a face fitting 3d morphable model.  I looked at several projects on github, compiling several including [this one](https://github.com/patrikhuber/4dface) and was unable to get suitable results out of the box and was unable to extend these on my own.  This area I'd like to find technical assistance with.
+I also trialled a commercial option.  These options all required a high quality facial performance rig in CG, which is not trivial to build particularly on the timeline we established for the phase 1 of this project.  Additionally, from the beginning I was very interested in using the video of the facial performance as a component in the final result.  I felt strongly this would convey subtlety and expression and help us avoid the uncanny valley.  This pointed toward using a face fitting 3d morphable model.  I looked at several projects on github, compiling several including [this one](https://github.com/patrikhuber/4dface) but was unable to get suitable results out_of_the_box and was unable to extend these on my own.  This area I'd like to find technical assistance with.
 
 For the immediate term, I used a basic method for jaw motion on the male character and projected video on the female character.  Here is that result:
 
 {% iframe https://www.youtube.com/embed/y6R-Jx9W5c0 640 360 %}
 
-This version was able to be experienced with 'room scale' on the HTC Vive.  It was somewhat successful.  We chose to ditch the sofa and record our performers standing, as we felt there would be more motion and less issues with the motion capture due to marker occlusion.  The room was not well suited to recording audio.  We put acoustic treatment into the space in the form of bass trap panels, but it was insufficient and we have reverb in the recordings along with crossing on the mics.  This is time consuming to clean up, as was the mocap data.
+This version was able to be experienced with 'room scale' on the HTC Vive.  It was somewhat successful.  As you can see we chose to ditch the sofa and record our performers standing, as we felt there would be more motion and less issues with the motion capture due to marker occlusion.  The room was not well suited to recording audio.  We put acoustic treatment into the space in the form of bass trap panels, but it was insufficient and we have reverb in the recordings along with crossing on the mics.  This is time consuming to clean up, as was the mocap data.
 
-There is much further work that could be done.
+There is much further work that could be done.s
 
 ### Next Steps
 For this project to be successful, a solution for compelling, watchable faces would be the primary focus:
@@ -111,10 +112,11 @@ ____
 
 I have met someone at the FMX conference and again at Siggraph earlier this year.  A very nice guy named [Mahmoud Hesham](http://www.mahmoudhesham.net/) who has done work in this area of facial performance capture and face fitting.  I have asked him if he would be willing to collaborate on this project.  After exchanging some data, he sent me these tests
 
-Snapchat filter style augmentation in Unity
+Snapchat filter style augmentation in Unity:
 ![bowieface](bowie.gif)
 
-A test using the Alfio witness cam
-![alfioFaceTest]
+A test using the Alfio witness cam:
+![alfioFaceTest.PNG](alfioFaceTest.PNG)
+
 
 Further updates, I have continued my engagement with VUW and set up for them a new mocap space at the Miramar Creative Center.  The space larger and has 12 cameras.  We successfully captured full finger motion and had significantly less issues overall using this space. I am very optimistic about the next chapter in this story!
