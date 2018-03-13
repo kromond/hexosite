@@ -8,7 +8,7 @@ tags:
 cover_image: assets/images/SG_cover.png
 ---
 
-This project is a real time gallery simulation for the HTC Vive or Oculus Rift.  The first version shown here includes 4 figurative sculptures specifically created for this piece, with a self referential 'VR headset' theme.  There is also a room filling sculpture installation and 9 large scale photographs.
+This project is a real time gallery simulation for the HTC Vive or Oculus Rift.  The first version shown here includes 4 figurative sculptures specifically created for this piece, a room filling portrait sculpture installation and 9 large scale photographs.
 
 The viewer is able to move around the art works in 'room scale' and are able to teleport to other locations.
 

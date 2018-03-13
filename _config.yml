@@ -76,6 +76,6 @@ menu:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/kromond/kromond.github.io
+  repo: git@github.com:kromond/kromond.github.io.git
   branch: master
   message: "another update"

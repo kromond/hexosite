@@ -2,6 +2,12 @@
 title: about
 ---
 
-Originally from New Jersey, Kevin now lives and works in Miramar, Wellington.  His creative practice has recently been centered around content creation for head mounted displays and VR; developing expertise in 360 Stereoscopic video production, motion capture virtual production, and interactive content generation using game engines.  He is currently a supervisor at Weta Digital with 17 years experience producing computer generated visual effects for feature films.  His credits include King Kong (2005), Avatar (2009), Avengers (2012), The Hobbit series, and many others.  Kevin is a part time lecturer at Victoria University of Wellington’s School of Media Design. He has a BFA from the School of Visual Arts in New York City.
+Professionally, I am a supervisor at Weta Digital currently leading a small team crafting real time interactive VR experiences using IP related to feature film visual effects work underway at Weta Digital.  I have worked through a number of roles over my 18 years in visual effects including Visual Effects Artist, CG Supervisor, FX Department head, and Pipeline Supervisor where I managed large software development efforts related to virtual production.  In addition I am a part time educator at Victoria University of Wellington with the School of Design.
+
+Additionally, I am an active visual artist working across many mediums.  My creative practice currently is centered around virtual and augmented reality and traditional painting in oil.
+
+I have a Bachelor of Fine Arts from the School of Visual Arts in New York City.
+
+[IMDB Profile](http://www.imdb.com/name/nm1541102/)
 
 ![kr_scanhead.jpeg](kr_scanhead.jpeg)

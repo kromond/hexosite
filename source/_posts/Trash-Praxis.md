@@ -119,4 +119,4 @@ A test using the Alfio witness cam:
 ![alfioFaceTest.PNG](alfioFaceTest.PNG)
 
 
-Further updates, I have continued my engagement with VUW and set up for them a new mocap space at the Miramar Creative Center.  The space larger and has 12 cameras.  We successfully captured full finger motion and had significantly less issues overall using this space. I am very optimistic about the next chapter in this story!
+We are continuing to discuss how we could work together on this.  In further updates, I have continued my engagement with VUW and set up for them a new mocap space at the Miramar Creative Center.  The space larger and has 12 cameras.  We successfully captured full finger motion and had significantly less issues overall using this space. I am very optimistic about the next chapter in this story!
