@@ -69,8 +69,10 @@ theme: edinburgh
 menu:
   About: /about
   Contact: /contact
-  Blog: /blog
+  instagram: https://www.instagram.com/kromond/
 
+# Google Analytics Tracking ID # NOTE: seemed to only work when put into the theme config.yml
+google_analytics: UA-64554420-1
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

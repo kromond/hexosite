@@ -1,5 +1,5 @@
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-64554420-1
 
 # Default portfolio post
 default_cover_image: /images/treacle1.jpg
