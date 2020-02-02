@@ -54,3 +54,32 @@ ____
 This image comes from Sept 2018.  Psysarum simulation on photo. 
 
 [https://superrare.co/kromond](https://superrare.co/kromond)
+
+____
+##### **Magic Trick** #####
+
+<img src="./abraSDF3.0.gif" width="512px" height="512px">
+
+Part of the real time SDF sketches.  V1 of this shared on 12 Oct 2019.  This version 19 Oct 2019
+
+[https://superrare.co/kromond](https://superrare.co/kromond)
+
+____
+##### **I Don't Know What I'm Doing** #####
+
+![5](sdfOrangeFlower4.0.gif)
+
+Part of the real time SDF sketches.  This version first shared 19 Oct 2019
+
+____
+##### **Radiant Orange** #####
+
+![6](sdfOrangeFlowerHorizon5.0.gif)
+
+Part of the real time SDF sketches.  This version first shared 12 Oct 2019
+
+##### **White Flowers with Radiance** #####
+
+![7](wf_loop_v03.gif)
+
+Visualizing the radiance of beautiful things.  Photogrammetry with RC. Houdini & Nuke for explorations.  See my instagram for higher resolution mp4  https://www.instagram.com/kromond/
