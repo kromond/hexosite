@@ -1,6 +1,7 @@
 ---
 title: Trash Praxis
 date: 2017-07-04 15:20:46
+published: false
 tags: 
 	- real-time
 	- vr

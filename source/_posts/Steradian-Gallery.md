@@ -7,17 +7,17 @@ tags:
 	- Unreal Engine
 cover_image: assets/images/SG_cover.png
 ---
+2017
 
-This project is a real time gallery simulation for the HTC Vive or Oculus Rift.  The first version shown here includes 4 figurative sculptures specifically created for this piece, a room filling portrait sculpture installation and 9 large scale photographs.
+A real time gallery simulation for the HTC Vive or Oculus Rift.  The first version shown here includes 4 figurative sculptures specifically created for this piece, a room-filling self portrait and 9 large scale photographs.
 
 The viewer is able to move around the art works in 'room scale' and are able to teleport to other locations.
 
-More about this project can be found here, including download link to the working prototype for Vive or Rift
-
-https://twidgelab.github.io/SteradianGallery_docs/
-
-{% iframe https://www.youtube.com/embed/oXEeSsjpbDQ 960 540 %}
-
+{% raw %}
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/oXEeSsjpbDQ" width="100%" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endraw %}
 ___
 
 

@@ -4,10 +4,17 @@ date: 2017-07-04 17:15:47
 tags:
 cover_image: assets/images/camCover.png
 ---
+2015-2016
 
-This was an exploration of producing spherical video, aka 360 Video and stereoscopic 360 video.  The project included modifying Xiaomi Yi cameras with after market lenses, 3d printing, and plenty of trial and error.  There are many details and links to some clips in my blog.
+This was an exploration of producing spherical and stereoscopic video, aka 360 Video, at a time when there were no commercially produced cameras for this purpose.  The project included modifying Xiaomi Yi action cameras with after market lenses, 3d printing, and trial and error.  
 
-[read more here](/blog)
+{% raw %}
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/CRYeP2K2J-M" width="100%" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endraw %}
+___________________________________________________________________________
+
 
 ![inside](ydxj0142_crop.jpg)
 

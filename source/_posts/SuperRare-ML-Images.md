@@ -4,6 +4,9 @@ cover_image: assets/images/superRareML_cover.png
 date: 2019-04-12 20:12:38
 tags:
 ---
+
+2019-2020
+
 Here lies a collection of digital artworks listed for sale at https://superrare.co/kromond.  Singularly unique digital artworks with full provenance stored in the blockchain.
 
 Support the arts.  Get some ETH and become a patron

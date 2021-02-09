@@ -4,8 +4,14 @@ date: 2017-07-03 12:30:00
 tags:
 cover_image: assets/images/tapewolfCover.png
 ---
-This piece was recorded at the Newtown Festival on the street in front of the Death Ray Record store.  Here you see the last two songs of their set: "Blackcat" followed by "Batshake"
+2016
 
-The audio is recorded on my 4 channel diy mic in a planar arrangement and mixed to FOA for youtube.  This was my first attempt at publishing something with ambisonics.  This should be audible on a modern chrome browser, or on a late model phone.  Seeing and hearing this on a headset is pretty cool, a lot of energy comes through.  The camera is positioned quite low.  Near the band is a young child in a red shirt who is about as tall as the camera which was a fortunate accident
+This piece was recorded at the Newtown Festival on the street in front of the Death Ray Record store.  Two songs from the Tape Wolves: "Blackcat" followed by "Batshake"
 
-{% iframe https://www.youtube.com/embed/EFNxuXvqQYA 800 400 %}
+The audio is recorded on a 4 channel diy mic in a planar arrangement and mixed to FOA for youtube.  This was my first attempt at publishing something with ambisonics.  This should be audible on a modern chrome browser, or on a late model phone.  Seeing and hearing this on a headset is pretty cool, a lot of energy comes through.  The camera was also diy, 4 Xiaomi Yi cameras with custom lenses in custom housing
+
+{% raw %}
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/EFNxuXvqQYA" width="100%" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endraw %}
