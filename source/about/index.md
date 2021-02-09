@@ -2,12 +2,14 @@
 title: about
 ---
 
-Professionally, I am a supervisor at Weta Digital currently leading a small team crafting real time interactive VR experiences using IP related to feature film visual effects work underway at Weta Digital.  I have worked through a number of roles over my 18 years in visual effects including Visual Effects Artist, CG Supervisor, FX Department head, and Pipeline Supervisor where I managed large software development efforts related to virtual production.  In addition I am a part time educator at Victoria University of Wellington with the School of Design.
+Professionally, I have worked through a number of roles over my 20+ years in visual effects including Visual Effects Simulation Artist, CG Supervisor, FX Department head, Pipeline Supervisor, Special Projects Director.  I am currently the Director of the Miramar Creative Centre, a graduate facility of the Victoria University of Wellington, deticated to the advancement of film, media and the entertainment arts.
 
-Additionally, I am an active visual artist working across many mediums.  My creative practice currently is centered around virtual and augmented reality and traditional painting in oil.
+Additionally, I am an active visual artist working across many mediums.
 
 I have a Bachelor of Fine Arts from the School of Visual Arts in New York City.
 
 [IMDB Profile](http://www.imdb.com/name/nm1541102/)
 
-![kr_scanhead.jpeg](kr_scanhead.jpeg)
+<img src="kr_scanhead.jpeg" width="60px">
+
+
