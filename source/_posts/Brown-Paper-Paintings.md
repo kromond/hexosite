@@ -6,9 +6,9 @@ tags: paintings
 ---
 2020
 
-Brown kraft paper: low cost, large size, very liberating
+These pictures are from a 1.2M roll of kraft paper: low cost, large size, very liberating.   
 
-These images are sill frames from forgotton films.  I am primarily looking for frames which capture narrative moments and exchanges between people.  
+Thes images are frames from forgotten films.  I am primarily looking for frames which capture narrative moments and exchanges between people.  
 
 India ink, brush, airbrush, white gouache
 

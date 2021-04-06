@@ -86,3 +86,9 @@ Part of the real time SDF sketches.  This version first shared 12 Oct 2019
 ![7](wf_loop_v03.gif)
 
 Visualizing the radiance of beautiful things.  Photogrammetry with RC. Houdini & Nuke for explorations.  See my instagram for higher resolution mp4  https://www.instagram.com/kromond/
+
+##### **Abracadabara Talisman** #####
+
+![8](abracadabra_talisman.gif)
+
+Magic charms and magic words for the magic age.  This will keep bad juju from your domain.  Digital things are real things.
